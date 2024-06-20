@@ -5,7 +5,7 @@
 
 - 📫 Contacto **pablogmdev@proton.me**
 
-<h3 align="left">Conecta conmigo:</h3>
+<h3 align="left">
 <p align="left">
 </p>
 
